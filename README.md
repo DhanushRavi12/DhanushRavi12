@@ -1,31 +1,91 @@
 <h1 align="center">Hi 👋, I'm Dhanush R</h1>
-<h3 align="center">AWS & DevOps Engineer | Cloud & Automation Enthusiast</h3>
+<h3 align="center">AWS & DevOps Engineer | Cloud Infrastructure & Automation</h3>
 
 ---
 
 ## 🚀 About Me
-- 🔭 Building real-world AWS & DevOps projects
-- 🌱 Currently learning Advanced Terraform & Kubernetes
-- 💡 Passionate about Automation & CI/CD pipelines
-- 🎯 Goal: Become a Cloud & DevOps Architect
+
+🔹 Entry-Level AWS & DevOps Engineer with strong hands-on experience in designing, deploying, and automating cloud-based infrastructure on Amazon Web Services (AWS).
+
+🔹 Experienced in building production-style AWS server environments including EC2 web servers, custom VPC networks, serverless Lambda automation, and CI/CD pipelines.
+
+🔹 Passionate about Infrastructure as Code (IaC), cloud security best practices, automation, and scalable system design.
+
+🔹 Actively building real-world DevOps projects to strengthen expertise in cloud operations and deployment engineering.
+
+---
+
+## ☁️ AWS Server-Based Projects
+
+### 🔹 EC2 Web Server Deployment (AWS + Linux + Apache)
+- Launched and configured Amazon EC2 instances
+- Automated Apache installation using Shell scripting
+- Configured Security Groups for HTTP access
+- Deployed static web application
+- Implemented basic server hardening practices
+
+---
+
+### 🔹 Custom VPC Network Architecture
+- Designed custom VPC with public & private subnets
+- Configured Internet Gateway (IGW) and NAT Gateway
+- Implemented Route Tables and Network ACL rules
+- Applied Security Groups for controlled access
+- Deployed EC2 instances across subnets for connectivity testing
+
+---
+
+### 🔹 S3 Static Website Hosting with CloudFront
+- Created and configured S3 bucket for static hosting
+- Implemented bucket policies and versioning
+- Integrated CloudFront CDN for performance optimization
+- Applied secure access configuration
+
+---
+
+### 🔹 AWS Lambda Serverless Automation Pipeline
+- Built event-driven automation using S3 + Lambda
+- Configured S3 triggers to invoke Lambda functions
+- Implemented file validation and renaming logic
+- Integrated Amazon SNS for real-time notifications
+- Applied least-privilege IAM roles for secure execution
+
+---
+
+### 🔹 CI/CD Pipeline (GitHub → Jenkins → Maven → EC2)
+- Integrated GitHub webhooks with Jenkins
+- Designed pipeline stages:
+  - Source Checkout
+  - Compile
+  - Unit Testing
+  - JAR Packaging
+- Automated deployment workflow
+- Implemented email notifications for build status
+- Reduced manual deployment time
+
+---
+
+### 🔹 Terraform Infrastructure Automation
+- Provisioned AWS VPC, EC2, Subnets, and Security Groups
+- Used variables.tf and outputs.tf for modular structure
+- Automated infrastructure provisioning
+- Reduced manual configuration errors
 
 ---
 
 ## 🛠 Tech Stack
 
 ### ☁ Cloud
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
-![Linux](https://img.shields.io/badge/Linux-OS-black?style=for-the-badge&logo=linux)
+AWS (EC2, S3, IAM, VPC, Lambda, SNS, CloudWatch, ALB, Auto Scaling)
 
 ### 🔁 DevOps
-![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI-red?style=for-the-badge&logo=jenkins)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes)
+Docker | Jenkins | Terraform | Kubernetes (Basics) | Maven | Git | GitHub
 
 ### 💻 Programming
-![Java](https://img.shields.io/badge/Java-Core-red?style=for-the-badge&logo=java)
-![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql)
+Core Java | Shell Scripting
+
+### 🗄 Database
+Oracle SQL | MySQL
 
 ---
 
@@ -41,18 +101,13 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📫 Contact Me
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhanushRavi12&theme=tokyo-night" />
-</p>
-
----
-
-## 📫 Connect With Me
-- 💼 LinkedIn: (Add your link here)
-- 📧 Email: r.dhanushravii1202@gmail.com
+📱 Phone: +91 9080414681  
+📧 Email: r.dhanushravii1202@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/dhanush-ravi-934784232/  
+💻 GitHub: https://github.com/DhanushRavi12  
 
 ---
 
-⭐ If you like my work, consider giving a star!
+⭐ Open to Cloud / DevOps / AWS Engineering Opportunities
