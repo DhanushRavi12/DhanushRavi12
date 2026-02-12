@@ -1,107 +1,61 @@
-<h1 align="center">Hi 👋, I'm Dhanush R</h1>
-<h3 align="center">AWS & DevOps Engineer | Cloud Infrastructure & Automation</h3>
+<h1 align="center">
+  Hi 👋, I'm Dhanush R
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Entry-Level+AWS+%26+DevOps+Engineer;Cloud+Infrastructure+Specialist;CI%2FCD+%7C+Terraform+%7C+Docker;Building+Scalable+Cloud+Solutions" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-🔹 Entry-Level AWS & DevOps Engineer with strong hands-on experience in designing, deploying, and automating cloud-based infrastructure on Amazon Web Services (AWS).
-
-🔹 Experienced in building production-style AWS server environments including EC2 web servers, custom VPC networks, serverless Lambda automation, and CI/CD pipelines.
-
-🔹 Passionate about Infrastructure as Code (IaC), cloud security best practices, automation, and scalable system design.
-
-🔹 Actively building real-world DevOps projects to strengthen expertise in cloud operations and deployment engineering.
+🔹 Entry-Level AWS & DevOps Engineer with strong hands-on experience in AWS server-based deployments and automation projects.  
+🔹 Built real-world cloud infrastructure including EC2 web servers, custom VPC networks, Lambda automation pipelines, and CI/CD workflows.  
+🔹 Passionate about Infrastructure as Code (Terraform), secure networking, and scalable deployment architecture.  
+🔹 Continuously improving cloud engineering and DevOps best practices.
 
 ---
 
-## ☁️ AWS Server-Based Projects
+## ☁️ Tech Stack
 
-### 🔹 EC2 Web Server Deployment (AWS + Linux + Apache)
-- Launched and configured Amazon EC2 instances
-- Automated Apache installation using Shell scripting
-- Configured Security Groups for HTTP access
-- Deployed static web application
-- Implemented basic server hardening practices
-
----
-
-### 🔹 Custom VPC Network Architecture
-- Designed custom VPC with public & private subnets
-- Configured Internet Gateway (IGW) and NAT Gateway
-- Implemented Route Tables and Network ACL rules
-- Applied Security Groups for controlled access
-- Deployed EC2 instances across subnets for connectivity testing
-
----
-
-### 🔹 S3 Static Website Hosting with CloudFront
-- Created and configured S3 bucket for static hosting
-- Implemented bucket policies and versioning
-- Integrated CloudFront CDN for performance optimization
-- Applied secure access configuration
-
----
-
-### 🔹 AWS Lambda Serverless Automation Pipeline
-- Built event-driven automation using S3 + Lambda
-- Configured S3 triggers to invoke Lambda functions
-- Implemented file validation and renaming logic
-- Integrated Amazon SNS for real-time notifications
-- Applied least-privilege IAM roles for secure execution
-
----
-
-### 🔹 CI/CD Pipeline (GitHub → Jenkins → Maven → EC2)
-- Integrated GitHub webhooks with Jenkins
-- Designed pipeline stages:
-  - Source Checkout
-  - Compile
-  - Unit Testing
-  - JAR Packaging
-- Automated deployment workflow
-- Implemented email notifications for build status
-- Reduced manual deployment time
-
----
-
-### 🔹 Terraform Infrastructure Automation
-- Provisioned AWS VPC, EC2, Subnets, and Security Groups
-- Used variables.tf and outputs.tf for modular structure
-- Automated infrastructure provisioning
-- Reduced manual configuration errors
-
----
-
-## 🛠 Tech Stack
-
-### ☁ Cloud
-AWS (EC2, S3, IAM, VPC, Lambda, SNS, CloudWatch, ALB, Auto Scaling)
+### 🚀 Cloud
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-OS-black?style=for-the-badge&logo=linux)
 
 ### 🔁 DevOps
-Docker | Jenkins | Terraform | Kubernetes (Basics) | Maven | Git | GitHub
+![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI-red?style=for-the-badge&logo=jenkins)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes)
 
-### 💻 Programming
-Core Java | Shell Scripting
-
-### 🗄 Database
-Oracle SQL | MySQL
+### 💻 Programming & Database
+![Java](https://img.shields.io/badge/Java-Core-red?style=for-the-badge&logo=java)
+![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhanushRavi12&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DhanushRavi12&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanushRavi12&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanushRavi12&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Contact Me
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhanushRavi12&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
 
 📱 Phone: +91 9080414681  
 📧 Email: r.dhanushravii1202@gmail.com  
@@ -110,4 +64,6 @@ Oracle SQL | MySQL
 
 ---
 
-⭐ Open to Cloud / DevOps / AWS Engineering Opportunities
+<p align="center">
+  ⭐ If you find my repositories useful, feel free to star them!
+</p>
