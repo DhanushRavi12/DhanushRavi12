@@ -14,11 +14,17 @@ Entry-Level AWS & DevOps Engineer with hands-on experience in designing and depl
 
 ---
 
-# ☁️ Cloud
+# ☁️ Cloud (AWS Server Infrastructure)
 
-![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20S3%20%7C%20VPC%20%7C%20Lambda-orange?style=for-the-badge&logo=amazonaws)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-Monitoring-yellow?style=for-the-badge&logo=amazonaws)
-![Linux](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge&logo=linux)
+![EC2](https://img.shields.io/badge/EC2-Compute-orange?style=for-the-badge&logo=amazonaws)
+![S3](https://img.shields.io/badge/S3-Storage-orange?style=for-the-badge&logo=amazonaws)
+![IAM](https://img.shields.io/badge/IAM-Access%20Control-orange?style=for-the-badge&logo=amazonaws)
+![VPC](https://img.shields.io/badge/VPC-Networking-orange?style=for-the-badge&logo=amazonaws)
+![Lambda](https://img.shields.io/badge/Lambda-Serverless-orange?style=for-the-badge&logo=awslambda)
+![RDS](https://img.shields.io/badge/RDS-Database-orange?style=for-the-badge&logo=amazonrds)
+![SNS](https://img.shields.io/badge/SNS-Notifications-orange?style=for-the-badge&logo=amazonaws)
+![SQS](https://img.shields.io/badge/SQS-Queue-orange?style=for-the-badge&logo=amazonaws)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-Monitoring-orange?style=for-the-badge&logo=amazonaws)
 
 ---
 
@@ -28,7 +34,7 @@ Entry-Level AWS & DevOps Engineer with hands-on experience in designing and depl
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?style=for-the-badge&logo=jenkins)
 ![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker)
 ![Terraform](https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-purple?style=for-the-badge&logo=terraform)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Basic-blue?style=for-the-badge&logo=kubernetes)
 
 ---
 
